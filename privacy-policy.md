@@ -1,67 +1,68 @@
-# 隐私政策
+# Privacy Policy
 
-**更新日期：2025年9月**
+**Last Updated: September 2025**
 
-感谢您使用 **KnowMeGenius - 心理测试应用**（以下简称“本应用”）。  
-我们非常重视用户的隐私和数据安全。本隐私政策旨在向您说明我们如何收集、使用和保护您的信息。
-
----
-
-## 1. 信息收集
-- 本应用 **不会主动收集或存储**您的个人身份信息（如姓名、身份证号、电话号码、通讯录、相机、麦克风、定位等）。
-- 本应用可能会要求您输入昵称或国家/地区，仅用于生成测试结果显示，不会用于其他用途。
-- 为了提供广告服务，本应用可能会集成 **第三方广告 SDK**（如 Google AdMob）。这些第三方可能会收集以下信息：  
-  - 设备信息（如设备型号、系统版本、广告 ID、IP 地址等）；  
-  - 应用使用情况（如使用时长、点击广告的情况）。  
+Thank you for using **KnowMeGenius - Psychological Test App** (hereinafter referred to as "the App").  
+We value your privacy and data security. This Privacy Policy explains how we collect, use, and protect your information.
 
 ---
 
-## 2. 信息使用
-- 所收集的信息仅用于：  
-  - 提供测试功能与应用内体验；  
-  - 展示广告内容并支持应用的免费使用；  
-  - 改进产品和用户体验。  
-- 我们不会将您的数据出售、出租或以其他方式提供给任何未经授权的第三方。
+## 1. Information Collection
+- The App **does not actively collect or store** your personally identifiable information (such as name, ID number, phone number, contacts, camera, microphone, or location).  
+- The App may ask you to provide a nickname or country/region, which is only used for displaying test results and not for any other purposes.  
+- To provide advertising services, the App may integrate **third-party advertising SDKs** (such as Google AdMob). These third parties may collect the following information:  
+  - Device information (e.g., device model, operating system version, advertising ID, IP address, etc.);  
+  - App usage information (e.g., session duration, ad interactions).  
 
 ---
 
-## 3. 信息共享
-- 我们仅在以下情况下共享数据：  
-  - 与广告服务提供方（如 Google AdMob），用于广告投放；  
-  - 根据法律法规的要求，或司法机关、政府部门的合法请求。  
+## 2. Use of Information
+The collected information is used solely for the following purposes:  
+- To provide test functions and enhance the in-app experience;  
+- To display advertisements and support the free use of the App;  
+- To improve the App and overall user experience.  
+
+We do **not** sell, rent, or otherwise provide your data to any unauthorized third party.
 
 ---
 
-## 4. 数据安全
-- 本应用采取合理的安全措施，保护您的信息免遭未经授权的访问、使用或泄露。  
-- 请注意，由于互联网的开放性，任何传输和存储方式都无法保证 100% 安全。  
+## 3. Information Sharing
+We only share data under the following circumstances:  
+- With advertising service providers (such as Google AdMob) for ad delivery;  
+- As required by applicable laws and regulations, or in response to valid requests from judicial or governmental authorities.  
 
 ---
 
-## 5. 儿童隐私
-- 本应用不面向 **13 岁以下儿童**（或当地法律规定的年龄）。  
-- 如果您是未成年人，请在监护人的指导下使用本应用。  
+## 4. Data Security
+- The App applies reasonable security measures to protect your information from unauthorized access, use, or disclosure.  
+- However, due to the open nature of the Internet, no method of transmission or storage can guarantee 100% security.  
 
 ---
 
-## 6. 用户权利
-- 您可以选择退出个性化广告（在设备系统设置中重置或限制广告 ID）。  
-- 您可以随时卸载本应用来终止数据收集。  
+## 5. Children’s Privacy
+- The App is **not directed at children under the age of 13** (or the minimum age required by local law).  
+- If you are a minor, please use the App under the guidance of a parent or legal guardian.  
 
 ---
 
-## 7. 隐私政策更新
-- 我们可能会不时更新本隐私政策。  
-- 更新后的政策会发布在此页面，并立即生效。  
+## 6. User Rights
+- You may opt out of personalized ads by resetting or limiting the advertising ID in your device settings.  
+- You may uninstall the App at any time to stop further data collection.  
 
 ---
 
-## 8. 联系我们
-如果您对本隐私政策或数据处理有任何疑问，请通过以下方式联系我们：  
-
-电子邮箱：`zyong8590@gmail.com` 
+## 7. Updates to This Privacy Policy
+- We may update this Privacy Policy from time to time.  
+- Updates will be published on this page and will take effect immediately upon posting.  
 
 ---
 
-**最后说明**：  
-使用本应用，即表示您同意本隐私政策的内容。  
+## 8. Contact Us
+If you have any questions about this Privacy Policy or our data handling practices, please contact us at:  
+
+Email: `zyong8590@gmail.com`  
+
+---
+
+**Final Statement**:  
+By using this App, you agree to the terms of this Privacy Policy.
